@@ -1,0 +1,32 @@
+/* Google font */
+@import url('https://fonts.googleapis.com/css?family=Shippori+Mincho');
+
+body {
+  font-family: 'Shippori Mincho', sans-serif;
+  padding-left: 25%;
+  padding-right: 25%;
+  height: 100%;
+  text-align: center; 
+}
+
+#greeting {
+  color: #000000;
+  font-size: 56px;
+  padding: 40px;
+}
+
+#clock {
+  color: #000000;
+  font-size: 56px;
+  padding: 40px;
+}
+
+#quote-body{
+    font-size: 30px;
+    padding: 40px;
+  }
+
+  #quote-footer{
+    font-size: 30px;
+    text-align: right;
+  }
